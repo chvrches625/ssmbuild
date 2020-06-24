@@ -1,2 +1,2 @@
 # ssmbuild
- Merge the spring, springMVC and mybatis frameworks. 
+ Merge the Spring, SpringMVC and MyBatis frameworks. 
